@@ -50,7 +50,8 @@ Cliente Web
 │ PHP-FPM 8.4.x │
 │ /tmp/php84.sock │
 └──────────────────┘
-'''
+```
+
 
 # PREPARACIÓN DEL ENTORNO
 Actualización del sistema
